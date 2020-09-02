@@ -5,3 +5,5 @@ fit = model.fit(
     verbose=2,           # verbosity of shell output (0: none, 1: high, 2: low)
     validation_data=(X_valid, y_valid),  # validation data
     callbacks=[])        # optional list of functions to be called once per epoch
+
+Great!
